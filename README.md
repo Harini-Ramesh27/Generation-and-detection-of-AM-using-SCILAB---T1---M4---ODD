@@ -81,26 +81,30 @@ Compare the original modulating signal with the demodulated signal.
 * Execute the code.
 * If any Error, correct it in code and execute again.
 * Verify the generated waveform using Tabulation and Model Waveform.
+## Model graph
+<img width="503" height="350" alt="image" src="https://github.com/user-attachments/assets/2e10c9cc-39fa-40d2-8246-d1cf6e26e122" />
+
 
 # TABULATION
+<img width="720" height="1280" alt="WhatsApp Image 2026-09-18 at 11 12 07 PM" src="https://github.com/user-attachments/assets/546b2628-df1f-4d52-9777-52fe14660975" />
 
-| Sl. No. | Signal             | Amplitude (V) Theory | Amplitude (V) Practical | Frequency (Hz) Theory | Frequency (Hz) Practical |
-| ------- | ------------------ | -------------------- | ----------------------- | --------------------- | ------------------------ |
-| 1       | Message Signal     |                      |                         |                       |                          |
-| 2       | Carrier Signal     |                      |                         |                       |                          |
-| 3       | Modulated Signal   |                      |                         |                       |                          |
-| 4       | Demodulated Signal |                      |                         |                       |                          |
 
-**Modulated Signal:**
-
-* Emax =
-* Emin =
 
 # CALCULATION
 
-1. **ma (Theory) = am/ac =**
+<img width="720" height="1280" alt="WhatsApp Image 2026-09-18 at 11 12 50 PM" src="https://github.com/user-attachments/assets/2ab8ab45-24fe-4aa3-a1e5-b1ab0944c12d" />
+<img width="848" height="1280" alt="WhatsApp Image 2026-09-18 at 11 13 11 PM" src="https://github.com/user-attachments/assets/c1e08f41-e0b9-48c6-b27b-64594c4801fb" />
 
-2. **ma (Practical) = (Emax - Emin) / (Emax + Emin) =**
+
+## Output
+<img width="1917" height="1021" alt="Screenshot 2026-09-18 232107" src="https://github.com/user-attachments/assets/3820d5d8-3625-4a19-bc82-73532e7ea544" />
+
+
+
+## Result
+
+Successfully generated and detected the amplitude modulation and demodulation using SCILAB and to calculate modulation index of AM.
+
 
 
 
