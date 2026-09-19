@@ -86,18 +86,16 @@ Compare the original modulating signal with the demodulated signal.
 
 
 # TABULATION
-<img width="720" height="1280" alt="WhatsApp Image 2026-09-18 at 11 12 07 PM" src="https://github.com/user-attachments/assets/546b2628-df1f-4d52-9777-52fe14660975" />
-
-
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/d5cd6c78-5e34-49cc-a789-2f4b77b00bdd" />
 
 # CALCULATION
 
-<img width="720" height="1280" alt="WhatsApp Image 2026-09-18 at 11 12 50 PM" src="https://github.com/user-attachments/assets/2ab8ab45-24fe-4aa3-a1e5-b1ab0944c12d" />
-<img width="848" height="1280" alt="WhatsApp Image 2026-09-18 at 11 13 11 PM" src="https://github.com/user-attachments/assets/c1e08f41-e0b9-48c6-b27b-64594c4801fb" />
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/ccdfc676-6847-4f5c-b9a2-2a6d525ffbce" />
 
 
 ## Output
-<img width="1917" height="1021" alt="Screenshot 2026-09-18 232107" src="https://github.com/user-attachments/assets/3820d5d8-3625-4a19-bc82-73532e7ea544" />
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/3468b705-6be2-4a71-baf3-3a8d6a2bf39c" />
+
 
 
 
