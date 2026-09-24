@@ -95,13 +95,16 @@ Compare the original modulating signal with the demodulated signal.
 
 ## Output
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/3468b705-6be2-4a71-baf3-3a8d6a2bf39c" />
+MARK SPLIT-UP:
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/aa9b970c-aceb-45c8-a872-36599d93276f" />
+
 
 
 
 
 ## Result
+<img width="1600" height="620" alt="image" src="https://github.com/user-attachments/assets/a88152bc-e152-41b4-975a-fec58a5dc755" />
 
-Successfully generated and detected the amplitude modulation and demodulation using SCILAB and to calculate modulation index of AM.
 
 
 
